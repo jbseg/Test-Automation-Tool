@@ -40,6 +40,6 @@ uctypes.py          65      3    95%   23, 64, 103
 ----------------------------------------------
 TOTAL              765     44    94%
 ```
-it first compares all the test files to their correct output and simultaneuosly runs coverage on all of them.
+it first compares all the test files to their correct output and simultaneuosly runs coverage on all of them. For more coverage documentation click [here](https://coverage.readthedocs.io/en/v4.5.x/)
 
 If there are any mistakes or improvements I can make please let me know!! :)
