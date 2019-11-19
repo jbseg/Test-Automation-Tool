@@ -2,16 +2,18 @@
 a shell script that runs all your tests and sees how many lines of your code they covered
 
 ## Personalize
-1. change line 3 to include a list of files you want to see how much they cover
-2. change lines 6 and 7 to the correct file extensions for the correct output and output
+1. Change line 3 to include a list of files you want to see how much they cover
+2. Change lines 6 and 7 to the correct file extensions for the correct output and output
     1. currently if you have test.uc
     2. the correct file is test.out.correct
     3. the outputs file is test.out
 
 ## How to run
+```
 $ pip install coverage
 $ chmod +x test.sh
 $ ./test.sh
+```
 
 ## Example Output
 ```
