@@ -10,7 +10,8 @@ a shell script that runs all your tests and sees how many lines of your code the
 
 ## How to run
 ```
-$ pip install coverage # or pip3 depending on which python you want
+$ pip install coverage 
+# or pip3 depending on which python you want
 $ chmod +x test.sh
 $ ./test.sh
 ```
